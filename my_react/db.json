@@ -1,7 +1,207 @@
 [
   {
+    "x": 13,
+    "y": 8,
+    "buildingType": "residential"
+  },
+  {
+    "x": 13,
+    "y": 7,
+    "buildingType": "residential"
+  },
+  {
     "x": 12,
     "y": 7,
     "buildingType": "residential"
+  },
+  {
+    "x": 12,
+    "y": 8,
+    "buildingType": "residential"
+  },
+  {
+    "x": 13,
+    "y": 9,
+    "buildingType": "residential"
+  },
+  {
+    "x": 12,
+    "y": 10,
+    "buildingType": "residential"
+  },
+  {
+    "x": 9,
+    "y": 2,
+    "buildingType": "power-plant"
+  },
+  {
+    "x": 10,
+    "y": 2,
+    "buildingType": "road"
+  },
+  {
+    "x": 11,
+    "y": 2,
+    "buildingType": "road"
+  },
+  {
+    "x": 12,
+    "y": 2,
+    "buildingType": "road"
+  },
+  {
+    "x": 13,
+    "y": 2,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 2,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 3,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 4,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 5,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 6,
+    "buildingType": "road"
+  },
+  {
+    "x": 15,
+    "y": 7,
+    "buildingType": "road"
+  },
+  {
+    "x": 15,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 9,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 10,
+    "buildingType": "road"
+  },
+  {
+    "x": 13,
+    "y": 10,
+    "buildingType": "road"
+  },
+  {
+    "x": 14,
+    "y": 7,
+    "buildingType": "road"
+  },
+  {
+    "x": 6,
+    "y": 7,
+    "buildingType": "commercial"
+  },
+  {
+    "x": 6,
+    "y": 8,
+    "buildingType": "commercial"
+  },
+  {
+    "x": 6,
+    "y": 9,
+    "buildingType": "commercial"
+  },
+  {
+    "x": 5,
+    "y": 9,
+    "buildingType": "commercial"
+  },
+  {
+    "x": 2,
+    "y": 5,
+    "buildingType": "power-plant"
+  },
+  {
+    "x": 3,
+    "y": 5,
+    "buildingType": "road"
+  },
+  {
+    "x": 4,
+    "y": 5,
+    "buildingType": "road"
+  },
+  {
+    "x": 5,
+    "y": 5,
+    "buildingType": "road"
+  },
+  {
+    "x": 5,
+    "y": 6,
+    "buildingType": "road"
+  },
+  {
+    "x": 5,
+    "y": 7,
+    "buildingType": "road"
+  },
+  {
+    "x": 5,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 11,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 10,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 9,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 8,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 7,
+    "y": 8,
+    "buildingType": "road"
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "buildingType": "road"
+  },
+  {
+    "x": 13,
+    "y": 4,
+    "buildingType": "road"
   }
 ]

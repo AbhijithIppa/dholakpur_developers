@@ -4,6 +4,10 @@ export default {
     "filename": "construction-small.glb",
     "scale": 3
   },
+  "waterPlant":{
+    "type":"zone",
+    "filename":"water_treatment_plant.glb"
+  },
   "residential-A1": {
     "type": "zone",
     "filename": "building-house-block-big.glb"

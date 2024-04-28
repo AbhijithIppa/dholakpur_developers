@@ -96,4 +96,5 @@ export class CameraManager {
     this.camera.right = (CAMERA_SIZE * aspect) / 2;
     this.camera.updateProjectionMatrix();
   }
+  
 }
